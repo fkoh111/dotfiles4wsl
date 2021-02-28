@@ -1,0 +1,6 @@
+# misc
+.vscode
+*.tar
+*.tar.gz
+.idea
+.DS_Store

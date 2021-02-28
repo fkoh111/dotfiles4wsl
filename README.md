@@ -2,9 +2,6 @@
 
 WIP: dotfiles for WSL and Windows machine.
 
-### TODO:
-* Use git credentials manager in WSL (see resource #1).
-
 ### Resources:
 
 1. https://codefellows.github.io/setup-guide/
